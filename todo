@@ -1,0 +1,6 @@
+- [tools] makefile/cmake?
+- [feature] define chip8 structure based on docs
+- [feature] fetch/decode loop
+- [tools] include sdl
+- [PoC] render a single pixel on a screen
+- [docs] readme and changelog
